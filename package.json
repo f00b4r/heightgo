@@ -1,0 +1,27 @@
+{
+  "name": "heightgo",
+  "version": "0.0.1",
+  "description": "🚀heightgo is integration tool for height.app",
+  "author": "Felix",
+  "license": "MIT",
+  "engines": {
+    "node": "^13"
+  },
+  "type": "module",
+  "dependencies": {
+    "@types/async": "^3.0.8",
+    "@types/debug": "^4.1.5",
+    "@types/lodash": "^4.14.149",
+    "@types/node": "^13.9.1",
+    "async": "^3.2.0",
+    "debug": "^4.1.1",
+    "esm": "^3.2.25",
+    "lodash": "^4.17.15",
+    "ts-node": "^8.6.2",
+    "tsconfig-paths": "^3.9.0",
+    "typescript": "^3.8.3"
+  },
+  "scripts": {
+    "ts": "tsc --watch"
+  }
+}
